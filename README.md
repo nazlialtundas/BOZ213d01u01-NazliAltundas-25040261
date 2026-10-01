@@ -64,7 +64,7 @@ Bu projenin özgün kodları MIT Lisansı altında sunulmaktadır.
 
 Chiikawa ve karakterleri ile projede kullanılan üçüncü taraf görsel ve ses varlıkları bu lisans kapsamında değildir ve ilgili hak sahiplerine aittir.
 
-Bu proje üniversite ödevi kapsamında eğitim amacıyla hazırlanmıştır.
+Bu proje üniversite ödevi kapsamında eğitim amacıyla hazırlanmıştır ve ticari bir amaç taşımamaktadır.
 
 ### EN
 
@@ -72,4 +72,4 @@ The original code of this project is licensed under the MIT License.
 
 Chiikawa and its characters, as well as third-party visual and audio assets used in this project, are not covered by this license and belong to their respective copyright holders.
 
-This project was created for educational purposes as a university assignment.
+This project was created for educational purposes as a university assignment and is not intended for commercial use.

@@ -55,6 +55,18 @@ The player first enters their name. Then, they meet Chiikawa and Hachiware and g
 This project was created for educational purposes as a university assignment.
 
 ---
+## 🎮 Screenshots
+
+### Ana Menü Main Menu
+
+![Ana Menü](anamenu.png)
+
+### Oyun İçi In Game
+
+![Oyun İçi](game.png)
+![Oyun İçi](game2.png)
+
+
 
 ##  Lisans | License
 
